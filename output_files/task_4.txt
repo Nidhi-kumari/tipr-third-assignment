@@ -1,0 +1,40 @@
+Task-4  Fashion-Mnist Random_normal
+Training...
+Epoch  1:  Loss:     0.2933 Validation Accuracy: 0.854545
+Epoch  2:  Loss:     0.2537 Validation Accuracy: 0.882182
+Epoch  3:  Loss:     0.2303 Validation Accuracy: 0.879818
+Epoch  4:  Loss:     0.2619 Validation Accuracy: 0.885273
+Epoch  5:  Loss:     0.2542 Validation Accuracy: 0.881455
+Epoch  6:  Loss:     0.2793 Validation Accuracy: 0.881091
+Epoch  7:  Loss:     0.1879 Validation Accuracy: 0.891273
+Epoch  8:  Loss:     0.1919 Validation Accuracy: 0.884727
+Epoch  9:  Loss:     0.1317 Validation Accuracy: 0.888364
+Epoch 10:  Loss:     0.1546 Validation Accuracy: 0.881818
+
+Task-4 CIFAR Random_normal
+Training...
+Epoch  1, CIFAR-10 Batch 1:  Loss:     2.0613 Validation Accuracy: 0.284000
+Epoch  1, CIFAR-10 Batch 2:  Loss:     1.7393 Validation Accuracy: 0.356800
+Epoch  1, CIFAR-10 Batch 3:  Loss:     1.3219 Validation Accuracy: 0.413400
+Epoch  1, CIFAR-10 Batch 4:  Loss:     1.4036 Validation Accuracy: 0.477200
+Epoch  1, CIFAR-10 Batch 5:  Loss:     1.3676 Validation Accuracy: 0.500200
+Epoch  2, CIFAR-10 Batch 1:  Loss:     1.3742 Validation Accuracy: 0.529600
+Epoch  2, CIFAR-10 Batch 2:  Loss:     1.0465 Validation Accuracy: 0.546800
+Epoch  2, CIFAR-10 Batch 3:  Loss:     0.8383 Validation Accuracy: 0.587200
+Epoch  2, CIFAR-10 Batch 4:  Loss:     0.9094 Validation Accuracy: 0.613400
+Epoch  2, CIFAR-10 Batch 5:  Loss:     0.7598 Validation Accuracy: 0.626800
+Epoch  3, CIFAR-10 Batch 1:  Loss:     0.6838 Validation Accuracy: 0.637200
+Epoch  3, CIFAR-10 Batch 2:  Loss:     0.6197 Validation Accuracy: 0.639000
+Epoch  3, CIFAR-10 Batch 3:  Loss:     0.4153 Validation Accuracy: 0.676000
+Epoch  3, CIFAR-10 Batch 4:  Loss:     0.5926 Validation Accuracy: 0.676800
+Epoch  3, CIFAR-10 Batch 5:  Loss:     0.3756 Validation Accuracy: 0.683800
+Epoch  4, CIFAR-10 Batch 1:  Loss:     0.4814 Validation Accuracy: 0.676600
+Epoch  4, CIFAR-10 Batch 2:  Loss:     0.3785 Validation Accuracy: 0.678000
+Epoch  4, CIFAR-10 Batch 3:  Loss:     0.2058 Validation Accuracy: 0.685600
+Epoch  4, CIFAR-10 Batch 4:  Loss:     0.3286 Validation Accuracy: 0.688000
+Epoch  4, CIFAR-10 Batch 5:  Loss:     0.1654 Validation Accuracy: 0.695000
+Epoch  5, CIFAR-10 Batch 1:  Loss:     0.2496 Validation Accuracy: 0.724000
+Epoch  5, CIFAR-10 Batch 2:  Loss:     0.1095 Validation Accuracy: 0.716200
+Epoch  5, CIFAR-10 Batch 3:  Loss:     0.1520 Validation Accuracy: 0.693400
+Epoch  5, CIFAR-10 Batch 4:  Loss:     0.1572 Validation Accuracy: 0.714400
+Epoch  5, CIFAR-10 Batch 5:  Loss:     0.1172 Validation Accuracy: 0.696000
